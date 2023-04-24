@@ -30,7 +30,7 @@ Clone the repositry and open the index.html which is in the folder.
 - GitHub: [@unorjikingsley](https://github.com/unorjikingsley)
 
 👤 **berylcl**
-- GitHub: [@berylcl](https://github.com/Gakiiberyl)
+- GitHub: [@berylcl](https://github.com/berylcl)
 - Twitter: [omg_its_beryl](https://twitter.com/omg_its_beryl)
 - LinkedIn: [callme-claudette](https://www.linkedin.com/in/callme-claudette-83a796230/)
 
